@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/processing-4.3-windows-x64/processing-4.3/core/library" />
+      <root url="file://$USER_HOME$/Downloads/processing-4.3-windows-x64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/processing-4.3-windows-x64/processing-4.3/core/library" recursive="false" />
+  </library>
+</component>
